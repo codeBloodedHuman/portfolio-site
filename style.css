@@ -1,0 +1,27 @@
+
+body{
+    background: black !important;
+    color: white !important;
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
+
+.leftsection{
+    font-size:8vh;
+}
+
+.rightsection img{
+    width: 80%;
+}
+
+.pink {
+    color: #a642cb;
+}
+
+.infosection h1{
+    font-size:1.9rem ;
+}
+.card-header,.accordion-button {
+    background: #0000004a !important;
+}
